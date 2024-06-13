@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/fschrupprivero/qual-gis/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/random.ipynb
     - API Reference:
           - qual_gis module: qual_gis.md
           - common module: common.md
